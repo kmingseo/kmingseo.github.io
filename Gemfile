@@ -4,6 +4,10 @@ source "https://rubygems.org"
 
 gemspec
 
+# Jekyll 및 테마 추가
+gem "jekyll", "~> 4.2" # Jekyll 버전 설정 (필요에 따라 조정)
+gem "jekyll-theme-chirpy" # Chirpy 테마 추가
+
 gem "html-proofer", "~> 5.0", group: :test
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
