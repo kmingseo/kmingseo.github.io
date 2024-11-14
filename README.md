@@ -1,1 +1,1 @@
-# kmingseo.github.io
+# Ming's blog
