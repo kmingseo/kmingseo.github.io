@@ -1,8 +1,8 @@
 var store = [{
         "title": "just for test",
-        "excerpt":"just for test  ","categories": [],
+        "excerpt":"just for test  ","categories": ["ML"],
         "tags": [],
-        "url": "/test/",
+        "url": "/ml/test/",
         "teaser": null
       },{
         "title": "just for test with category",
