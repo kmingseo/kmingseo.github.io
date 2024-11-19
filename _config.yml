@@ -117,13 +117,13 @@ analytics:
 author:
   name             : "Kim Minseo"
   avatar           : "image/profile/IMG_2502.jpg"
-  bio              : "a student studying daily"
+  bio              : "Computer Science Engineering Student"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: min56607@gmail.com
+      url: mailto:min56607@gmail.com
     - label: "Github"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/kmingseo"
