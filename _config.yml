@@ -24,7 +24,8 @@ name                     : "Kim Minseo"
 description              : "Computer Science Engineering Student"
 url                      : "https://kmingseo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/kmingseo/kmingseo.github.io.git"
+repository               : "kmingseo/kmingseo.github.io"
+                          #"https://github.com/kmingseo/kmingseo.github.io.git"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Ming's blog"
@@ -320,7 +321,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false
+      comments: true
       share: true
       related: true
       show_date: true
