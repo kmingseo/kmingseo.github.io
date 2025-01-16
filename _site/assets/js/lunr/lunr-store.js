@@ -10,4 +10,10 @@ var store = [{
         "tags": ["new"],
         "url": "/algorithm/test2/",
         "teaser": null
+      },{
+        "title": "[C++] BOJ_1463 1로 만들기",
+        "excerpt":"just for test  ","categories": ["algorithm"],
+        "tags": ["dp"],
+        "url": "/algorithm/1463/",
+        "teaser": null
       }]
