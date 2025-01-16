@@ -7,7 +7,7 @@ var store = [{
       },{
         "title": "just for test with category",
         "excerpt":"Test for toc  for toc test just for test  ","categories": ["algorithm"],
-        "tags": ["new"],
+        "tags": [],
         "url": "/algorithm/test2/",
         "teaser": null
       },{
