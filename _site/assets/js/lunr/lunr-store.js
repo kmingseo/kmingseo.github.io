@@ -6,13 +6,13 @@ var store = [{
         "teaser": null
       },{
         "title": "just for test with category",
-        "excerpt":"Test for toc  for toc test just for test  ","categories": ["algorithm"],
+        "excerpt":"Test for toc   for toc test  just for test  ","categories": ["algorithm"],
         "tags": [],
         "url": "/algorithm/test2/",
         "teaser": null
       },{
         "title": "[C++] BOJ_1463 1로 만들기",
-        "excerpt":"just for test  ","categories": ["algorithm"],
+        "excerpt":"just for test test     ","categories": ["algorithm"],
         "tags": ["dp"],
         "url": "/algorithm/1463/",
         "teaser": null
