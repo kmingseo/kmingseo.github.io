@@ -16,4 +16,10 @@ var store = [{
         "tags": ["dp"],
         "url": "/algorithm/9095/",
         "teaser": null
+      },{
+        "title": "[C++] BOJ_1149  RGB 거리",
+        "excerpt":"문제: 백준 1149 (c++) 풀이과정 처음 조건만 잘 본다면 생각보다 쉽게 점화식을 찾아낼 수 있다. 집에 색을 칠하는 조건이 총 세 가지가 나와 있는데 결국 각 집이 앞뒤 색상이 달라야 한다는 말이다. 그렇기에 처음 시작을 세 가지 경우로 나누는 것으로 접근하면 된다. 0, 1, 2가 빨강, 초록, 파랑이기에 min 함수를...","categories": ["algorithm"],
+        "tags": ["dp"],
+        "url": "/algorithm/1149/",
+        "teaser": null
       }]
