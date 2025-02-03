@@ -28,4 +28,10 @@ var store = [{
         "tags": ["dp"],
         "url": "/algorithm/1932/",
         "teaser": null
+      },{
+        "title": "K-Nearest Neighbors (K-최근접 이웃 알고리즘)",
+        "excerpt":"K-Nearest Neighbors (K-NN, K-최근접 이웃 알고리즘) 머신러닝에서 지도 학습의 한 종류로 거리 기반 분류 분석 모델로 새로운 데이터가 주어졌을 때, 이 데이터에 대한 답을 예측하는 것이라고 할 수 있다. 데이터 간의 거리 측정에 의존하고 유클리디안 거리 계산법을 사용하여 주변의 가까운 데이터 K 개를 지정해서 다수를 차지하는 것을 정답으로 한다. -&gt; 그렇기에 K의...","categories": ["ML"],
+        "tags": [],
+        "url": "/ml/KNN/",
+        "teaser": null
       }]
