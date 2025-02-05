@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/ml/KNN/",
         "teaser": null
+      },{
+        "title": "[C++] BOJ_2667 단지 번호 붙이기",
+        "excerpt":"문제: 백준 2667 (c++) 풀이과정 이 문제는 dfs 또는 bfs로 풀 수 있는데 아래의 코드는 dfs로 푼 코드이다. 주어진 배열을 탐색한다는 느낌으로 접근하면 쉬울 것이다. maze 문제 (미로 탐색 문제)와 비슷하다. 코드를 분리하여 보면, int n ; int cnt1 = 0 ; int cnt2 = 0 ; int board[26][26] ;...","categories": ["algorithm"],
+        "tags": ["dfs"],
+        "url": "/algorithm/2667/",
+        "teaser": null
       }]
