@@ -46,4 +46,10 @@ var store = [{
         "tags": ["dp"],
         "url": "/algorithm/2293/",
         "teaser": null
+      },{
+        "title": "[C++] BOJ_9663 N-Queen",
+        "excerpt":"문제: 백준 9663 (c++) 풀이과정 N-Queen 문제는 queen들이 서로 공격하지 못하도록 놓는 경우의 수를 구하는 것이기에 백트래킹을 사용해 주면 간단하다. 첫 번째 행에 첫 번째 퀸을 배치하고 두 번째 행에 퀸을 배치하면서 가능한 열들을 모두 시도하는 것이다. 이때 필요한 코드가 아래의 코드이다. if(i == queen[j] || abs(i-queen[j]) == num -...","categories": ["algorithm"],
+        "tags": ["Backtracking"],
+        "url": "/algorithm/9663/",
+        "teaser": null
       }]
